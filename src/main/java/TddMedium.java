@@ -1,5 +1,5 @@
 public class TddMedium {
-    static void main() {
+    static void main(String[] args) {
     }
 
     public static String reverseString(String text)  {
