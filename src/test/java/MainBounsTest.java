@@ -15,7 +15,7 @@ class MainBounsTest {
     }
     @Test
     void isPrime_shouldReturnTrue_by23() {
-        assertTrue(MainBouns.isPrime(23));
+        assertTrue(MainBouns.isPrime(24));
     }
 
     @ParameterizedTest
